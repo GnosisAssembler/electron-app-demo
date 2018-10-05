@@ -1,0 +1,14 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Simple electron app demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Panos Karyp",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.8"
+  }
+}
