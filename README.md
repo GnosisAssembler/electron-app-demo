@@ -1,6 +1,8 @@
 # Electron-app-demo
 
-![status completed](https://img.shields.io/badge/status-completed-blue.svg)
+![project template](https://img.shields.io/badge/project-template-blue.svg?style=flat-square)
+
+> Template for making an electron app
 
 ### Prerequisites
 
@@ -9,11 +11,9 @@
 ### Getting Started
 
 ```
-# Go to your project directory
-cd my-project
-
 # Clone the repository
-git clone https://github.com/pankaryp/Electron-app-demo.git
+git clone https://github.com/pankaryp/electron-app-demo.git
+cd electron-app-demo
 
 # Install NPM dependencies
 npm install
