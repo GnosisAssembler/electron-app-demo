@@ -10,7 +10,7 @@
 
 ### Getting Started
 
-```
+```sh
 # Clone the repository
 git clone https://github.com/pankaryp/electron-app-demo.git
 cd electron-app-demo
