@@ -1,4 +1,4 @@
-# Electron-app-demo
+# electron-app-demo
 
 ![project template](https://img.shields.io/badge/project-template-blue.svg?style=flat-square)
 
