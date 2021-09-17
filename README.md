@@ -19,7 +19,7 @@ cd electron-app-demo
 npm install
 
 # Then simply start the electron app
-electron main.js
+npm run dev
 ```
 
 ## License
